@@ -2,7 +2,7 @@
 namespace kj1;
 header("contant-type:text/html;charset=utf-8");
 function summ(){
-    echo '12他';
+    echo '123';
 }
 namespace kj2;
 function summ(){
