@@ -240,7 +240,7 @@ return [
     ],
     //输出替换
     'view_replace_str' => [
-        '__PUBLIC__' => '/public/',
+        '__PUBLIC__' => '/tanghao_CMS/blog/tp5/public/',
         '__ROOT__' => '/',
     ]
 ];

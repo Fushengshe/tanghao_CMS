@@ -13,6 +13,6 @@ class Index extends Controller
 //        return view();
         //方法3
 
-        return $this->fetch();
+        return $this->fetch('index',['name'=>'thinkphp']);
     }
 }
