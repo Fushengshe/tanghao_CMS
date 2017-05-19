@@ -238,4 +238,9 @@ return [
         'var_page'  => 'page',
         'list_rows' => 15,
     ],
+    //输出替换
+    'view_replace_str' => [
+        '__PUBLIC__' => '/public/',
+        '__ROOT__' => '/',
+    ]
 ];
