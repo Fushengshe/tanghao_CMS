@@ -2,10 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a8f17d-523b-4e6c-bdd2-dd45d5d5f7a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/config.php" afterPath="$PROJECT_DIR$/blog/tp5/application/config.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/.idea/xiaoqing.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/css/bootstrapstyle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/cc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/cc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/debug.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/er.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/fugai.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/hea.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/men.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/timg (3).jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/tz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/xing3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/zhuye.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/zhuye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/zhuye1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/js/jquery-3.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/xiaoqing.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" afterPath="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,21 +73,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding>
-                <marker date="1495196504592" expanded="true" signature="557:576" ph="..." />
-                <marker date="1495196504592" expanded="true" signature="623:637" ph="..." />
-                <marker date="1495196504592" expanded="true" signature="685:700" ph="..." />
+                <marker date="1495197566637" expanded="true" signature="557:576" ph="..." />
+                <marker date="1495197566637" expanded="true" signature="623:637" ph="..." />
+                <marker date="1495197566637" expanded="true" signature="685:700" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
@@ -75,9 +118,9 @@
         <option value="$PROJECT_DIR$/blog/tp5/application/demo/controller/Index.php" />
         <option value="$PROJECT_DIR$/blog/tp5/public/index.php" />
         <option value="$PROJECT_DIR$/blog/tp5/application/build.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" />
         <option value="$PROJECT_DIR$/blog/tp5/application/config.php" />
         <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" />
       </list>
     </option>
   </component>
@@ -89,10 +132,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="114" />
+    <option name="y" value="118" />
+    <option name="width" value="1147" />
+    <option name="height" value="758" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -120,222 +163,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tp5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tp5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tp5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tp5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tp5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tp5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tp5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Index" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tanghao_CMS" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tp5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -429,18 +256,18 @@
       <option name="presentableId" value="Default" />
       <updated>1495118242858</updated>
       <workItem from="1495118243956" duration="8180000" />
-      <workItem from="1495195353149" duration="1771000" />
+      <workItem from="1495195353149" duration="2294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9951000" />
+    <option name="totallyTimeSpent" value="10474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="114" y="118" width="1147" height="758" extended-state="1" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.146875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24933687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -483,9 +310,9 @@
         <state relative-caret-position="240">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <marker date="1495196504592" expanded="true" signature="557:576" ph="..." />
-            <marker date="1495196504592" expanded="true" signature="623:637" ph="..." />
-            <marker date="1495196504592" expanded="true" signature="685:700" ph="..." />
+            <marker date="1495197566637" expanded="true" signature="557:576" ph="..." />
+            <marker date="1495197566637" expanded="true" signature="623:637" ph="..." />
+            <marker date="1495197566637" expanded="true" signature="685:700" ph="..." />
           </folding>
         </state>
       </provider>
@@ -579,17 +406,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoqing/xiaoqing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-840">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xiaoqing/js/jquery-3.1.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -598,18 +419,6 @@
         <state relative-caret-position="210">
           <caret line="7" column="48" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <marker date="1495196504592" expanded="true" signature="557:576" ph="..." />
-            <marker date="1495196504592" expanded="true" signature="623:637" ph="..." />
-            <marker date="1495196504592" expanded="true" signature="685:700" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,6 +434,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="462" column="59" lean-forward="true" selection-start-line="462" selection-start-column="59" selection-end-line="462" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <marker date="1495197566637" expanded="true" signature="557:576" ph="..." />
+            <marker date="1495197566637" expanded="true" signature="623:637" ph="..." />
+            <marker date="1495197566637" expanded="true" signature="685:700" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoqing/xiaoqing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
