@@ -2,53 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a8f17d-523b-4e6c-bdd2-dd45d5d5f7a2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/.idea/xiaoqing.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/bootstrap/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/css/bootstrapstyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/cc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/cc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/debug.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/er.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/fugai.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/hea.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/men.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/timg (3).jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/tz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/xing3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/zhuye.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/zhuye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/zhuye1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/img/新建文件夹/img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/js/jquery-3.1.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaoqing/xiaoqing.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" afterPath="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/47731487768392.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/56451488617429.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/69661487768411.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/blog.mwb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/hdcms.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/thinkphp5.0.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/timg.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/opensans/opensans-bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/opensans/opensans-light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/opensans/opensans-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/avatar_default.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/avatar_default_female.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/logo.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/phone-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/phone-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/render-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/thumb_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/thumb_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/images/thumb_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/lst.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Index/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/top.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/index/controller/Ariticle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Ariticle/ariticle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/blog.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/css/backTop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/css/backTop.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/css/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/js/backTop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/js/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/前台模板/org/bootstrap-3.3.5-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/.idea/后台模板.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/addArticle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/addCate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/addLink.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/addTag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/css/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/css/landing.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/js/app.plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/后台模板/admin.ui/js/appear/jquery.appear.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/demo/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/demo/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/demo/controller/Index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/demo/controller/Test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/demo/controller/UserType.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/demo/model/User.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/demo/model/UserType.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/demo/view/index/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/demo/view/index/test.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Index.php" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,26 +118,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/tp5/application/build.php">
+      <file leaf-file-name="Ariticle.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Ariticle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            <state relative-caret-position="240">
+              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php">
+      <file leaf-file-name="top.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding>
-                <marker date="1495197566637" expanded="true" signature="557:576" ph="..." />
-                <marker date="1495197566637" expanded="true" signature="623:637" ph="..." />
-                <marker date="1495197566637" expanded="true" signature="685:700" ph="..." />
-              </folding>
+            <state relative-caret-position="-170">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,24 +141,47 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="462" column="59" lean-forward="true" selection-start-line="462" selection-start-column="59" selection-end-line="462" selection-end-column="59" />
+            <state relative-caret-position="30">
+              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/tp5/application/config.php">
+      <file leaf-file-name="lst.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="242" column="53" lean-forward="true" selection-start-line="242" selection-start-column="25" selection-end-line="242" selection-end-column="53" />
+            <state relative-caret-position="990">
+              <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>org/</find>
+      <find>./</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>__PUBLIC__/static/index/org/</replace>
+      <replace>__PUBLIC__/static/index/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\index\view\Index</dir>
+      <dir>C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\index\view\Lst</dir>
+      <dir>C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin\view</dir>
+      <dir>C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin\view\Cate</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,8 +193,23 @@
         <option value="$PROJECT_DIR$/blog/tp5/public/index.php" />
         <option value="$PROJECT_DIR$/blog/tp5/application/build.php" />
         <option value="$PROJECT_DIR$/blog/tp5/application/config.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html" />
         <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Lst.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Content.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Content/content.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/controller/Index.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/index.html" />
+        <option value="$PROJECT_DIR$/doc/后台模板/index.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/top.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Index/index.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/lst.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Ariticle.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Ariticle/ariticle.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html" />
       </list>
     </option>
   </component>
@@ -130,12 +219,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="114" />
-    <option name="y" value="118" />
-    <option name="width" value="1147" />
-    <option name="height" value="758" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -152,8 +241,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -168,6 +255,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,16 +264,18 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/html/xiaoqing" />
+    <property name="last_opened_file_path" value="E:/资源/php" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin\view\Index" />
+      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application" />
+      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\index\view\Index" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\index\view\Index" />
       <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application" />
-      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\index\view\Index" />
     </key>
   </component>
   <component name="RunManager">
@@ -256,35 +347,59 @@
       <option name="presentableId" value="Default" />
       <updated>1495118242858</updated>
       <workItem from="1495118243956" duration="8180000" />
-      <workItem from="1495195353149" duration="2294000" />
+      <workItem from="1495195353149" duration="2887000" />
+      <workItem from="1495203974183" duration="2019000" />
+      <workItem from="1495262394234" duration="6062000" />
+      <workItem from="1495289733749" duration="2570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10474000" />
+    <option name="totallyTimeSpent" value="21718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="114" y="118" width="1147" height="758" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24933687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24933687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -297,6 +412,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/build.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495197566637" expanded="true" signature="557:576" ph="..." />
+            <marker date="1495197566637" expanded="true" signature="623:637" ph="..." />
+            <marker date="1495197566637" expanded="true" signature="685:700" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13860">
+          <caret line="462" column="59" lean-forward="true" selection-start-line="462" selection-start-column="59" selection-end-line="462" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7020">
+          <caret line="242" column="53" lean-forward="true" selection-start-line="242" selection-start-column="25" selection-end-line="242" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/build.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -333,48 +484,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/common.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/model/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/model/UserType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/view/index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/controller/Index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/common.php" />
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/config.php" />
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/model/User.php" />
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/model/UserType.php" />
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/view/index/index.html" />
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/demo/controller/Index.php" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -395,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -406,14 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoqing/js/jquery-3.1.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoqing/js/jquery-3.1.1.js" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -422,26 +529,119 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoqing/xiaoqing.html" />
+    <entry file="file://E:/资源/php/blog/index.php" />
+    <entry file="file://E:/资源/php/blog/login.php" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="242" column="53" lean-forward="true" selection-start-line="242" selection-start-column="25" selection-end-line="242" selection-end-column="53" />
+        <state relative-caret-position="586">
+          <caret line="242" column="33" lean-forward="true" selection-start-line="242" selection-start-column="33" selection-end-line="242" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html">
+    <entry file="file://$PROJECT_DIR$/doc/前台模板/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="462" column="59" lean-forward="true" selection-start-line="462" selection-start-column="59" selection-end-line="462" selection-end-column="59" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="190" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Lst.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/前台模板/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="193" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/前台模板/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/addArticle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/addTag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/addLink.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/changePass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/moban.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/tag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/webset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="300">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
             <marker date="1495197566637" expanded="true" signature="557:576" ph="..." />
             <marker date="1495197566637" expanded="true" signature="623:637" ph="..." />
@@ -450,10 +650,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoqing/xiaoqing.html">
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/controller/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/cate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2926">
+          <caret line="186" column="10" lean-forward="true" selection-start-line="186" selection-start-column="10" selection-end-line="186" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/后台模板/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/lst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Public/top.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="8" selection-end-column="7" />
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="55" column="6" lean-forward="false" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Ariticle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Ariticle/ariticle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
           <folding />
         </state>
       </provider>

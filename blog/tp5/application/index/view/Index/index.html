@@ -1,480 +1,168 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>东北大学秦皇岛分校三十周年校庆官网</title>
-    <link rel="stylesheet" href="__PUBLIC__/static/index/css/reset.css">
-    <link rel="stylesheet" href="__PUBLIC__/static/index/css/bootstrapstyle.css">
-    <link rel="stylesheet" href="__PUBLIC__/static/index/bootstrap/css/bootstrap.min.css">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>hdphp教学博客-首页</title>
+    <!--描述和摘要-->
+    <meta name="Description" content=""/>
+    <meta name="Keywords" content=""/>
+    <!--载入公共模板-->
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/static/index/org/bootstrap-3.3.5-dist/css/bootstrap.min.css" />
+    <script src="__PUBLIC__/static/index/js/jquery-1.11.3.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="__PUBLIC__/static/index/org/bootstrap-3.3.5-dist/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/static/index/css/index.css" />
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/static/index/css/backTop.css"/>
 </head>
-<style>
-    body{
-        background-color: rgba(0,0,0,0.05);
-    }
-    .header{
-        width:auto;
-        height: 398px;
-        position: relative;
-        overflow: hidden;
-    }
-    .denglu{
-        position: absolute;
-        right: 100px;
-        top: 20px;
-        color:#333;
-        font-family: Helvetica,Tahoma,Arial,"Hiragino Sans GB","Microsoft YaHei",SimSun,Heiti,sans-serif;
-        font-size:13px;
-        z-index: 5;
-    }
-    .denglu:hover{
-        color: #31a5e7;
-        text-decoration: none;
-    }
-    .header img{
-        width: 1200px;
-        height: 400px;
-        height: auto;
-        display: block;
-        margin:auto;
-    }
-    .daohang{
-        height: 42px;
-        width: 1200px;
-        margin:auto;
-        margin-top:30px;
-
-        line-height: 41px;
-    }
-    .daohang li{
-        width: 229.5px;
-        height: 42px;
-        float: left;
-        border: 1px solid #510000;
-        background-color: rgba(0,0,0,0.2);
-        text-decoration: none;
-        color: #510000;
-        margin:auto;
-        text-align: center;
-    }
-    .daohang li:hover{
-        background-color: #510000;
-        color: white;
-    }
-    .daohang .li1{
-        width:50px;
-        background-color: #510000;
-    }
-    .daohang li img{
-        height: 40px;
-        width: 50px;
-        margin: auto;
-    }
-    .bigcontainer{
-        width:auto;
-        background-color: rgba(0,0,0,0.05);
-        margin-top:40px;
-    }
-    .container{
-        height: 600px;
-        width: 1200px;
-        margin:0 auto 30px auto;
-        overflow: hidden;
-        position: relative;
-    }
-    .container .contain{
-        width: 8400px;
-        height: 600px;
-        margin:auto;
-        position: absolute;
-        z-index: 1;
-    }
-    .container .contain img{
-        width: 1200px;
-        height: 600px;
-        float: left;
-    }
-    .buttons{
-        height: 30px;
-        width: 200px;
-        position: absolute;
-        top: 550px;
-        left:500px;
-        z-index: 2;
-        float: left;
-    }
-    .buttons span{
-        height: 12px;
-        width: 12px;
-        background-color:#515151;
-        margin-left:18px;
-        float: left;
-        border-radius: 50%;
-        cursor: pointer;
-    }
-    .container .buttons .on{
-        background-color: transparent;
-        border: 1px solid white;
-    }
-    .container .arrow1{
-        height: 100px;
-        width: 50px;
-        background-color:rgba(0,0,0,0.4);
-        position: absolute;
-        z-index: 3;
-        top:250px;
-        left: 0px;
-        font-size: 70px;
-        font-family:"宋体";
-        text-align: center;
-        text-decoration: none;
-        color:white;
-        display: none;
-    }
-    .container .arrow2{
-        position: absolute;
-        height: 100px;
-        width: 50px;
-        background-color:rgba(0,0,0,0.4);
-        position: absolute;
-        z-index: 3;
-        top:250px;
-        right: 0px;
-        display: block;
-        font-size: 70px;
-        text-align: center;
-        font-family:"宋体";
-        text-decoration: none;
-        color:white;
-        display: block;
-        display: none;
-    }
-    .container:hover a{
-        display: block;
-    }
-    .container2{
-        height: 600px;
-        width: 1200px;
-        margin:auto;
-    }
-    h1{
-        font-size: 30px;
-        color: darkblue;
-        display: block;
-        height: 60px;
-        width: 200px;
-        margin-left:20px;
-        border-bottom:1px solid gray;
-        margin-bottom:20px;
-    }
-    .container2 .tz1{
-        text-decoration: none;
-        display: block;
-        margin: 10px 0px 0 20px;
-        font-size: 16px;
-        height: 40px;
-        width: 550px;
-        border-bottom:1px dashed gray;
-        color: rgba(0,0,0,0.5);
-    }
-    .container2 .tz1:hover{
-        color:  rgba(0,0,0,0.6);
-    }
-    .left{
-        width: 625px;
-        height: 300px;
-        float: left;
-    }
-    .right{
-        float: right;
-        width: 575px;
-        height: 300px;
-    }
-    .container2 .tz2{
-        text-decoration: none;
-        display: block;
-        margin: 10px 0px 0 20px;
-        font-size: 16px;
-        height: 40px;
-        width: 550px;
-        border-bottom:1px dashed gray;
-        color: rgba(0,0,0,0.5);
-    }
-    .container2 .tz2:hover{
-        color:  rgba(0,0,0,0.6);
-    }
-    .footer{
-        height: 150px;
-        border: 1px solid red;
-    }
-    .bigfooter{
-        width: auto;
-        height: 190px;
-        background-color: #003A79;
-        background-image: url('__PUBLIC__/static/index/img/cc.png');
-        background-size:cover;
-    }
-    .footer1{
-        width: 1280px;
-        height: 150px;
-        margin: auto;
-        position: relative;
-    }
-    .footer1 .a1{
-        margin-top:10px;
-        text-decoration: none;
-        display: block;
-        position: absolute;
-        right: 1000px;
-        color: #a6c4df;
-    }
-    .footer1 .a2{
-        margin-top:10px;
-        text-decoration: none;
-        display: block;
-        position: absolute;
-        right: 700px;
-        color: #a6c4df;
-    }
-    .footer1 .a3{
-        margin-top:10px;
-        text-decoration: none;
-        display: block;
-        position: absolute;
-        right: 500px;
-        color: #a6c4df;
-    }
-    .footerright{
-        height: 150px;
-        width: 300px;
-        float: right;
-    }
-    .footerright p{
-        display: block;
-        float: left;
-        color: #a6c4df;
-        margin-top:60px;
-        font-size: 15px;
-    }
-    .footerright img{
-        float: left;
-        height: 100px;
-        width: 100px;
-        margin-top: 20px;
-        margin-left:20px;
-    }
-    .footer2{
-        height: 30px;
-        width: 1200px;
-        margin:auto;
-        line-height: 30px;
-    }
-    .footer2 p{
-        color:white;
-        opacity: 0.9;
-        text-align: center;
-    }
-</style>
-<script>
-    window.onload=function () {
-        var container = document.getElementById("container");
-        var list = document.getElementById("list");
-        var buttons = document.getElementById("buttons").getElementsByTagName("span");
-        var prev = document.getElementById("prev");
-        var next = document.getElementById("next");
-        var index = 0;
-        var lastindex = 0;
-        var timer;
-        var fasion = false;
-
-        function showbutton() {
-            for (var i = 0; i < buttons.length; i++) {
-                if (buttons[i].className == "on") {
-                    buttons[i].className = "";
-                }
-            }
-            buttons[index].className = "on";
-        }
-
-        function animate(thepx) {
-            fasion = true;
-            if (thepx == 0) {
-                return;
-            }
-            newleft = parseInt(list.style.left) + thepx;
-            var time = 200;  //位移时间
-            var interval = 5;   //位移间隔时间
-            var speed = thepx / (time / interval);   //每次位移量
-            function go() {
-                if ((speed < 0 && parseInt(list.style.left) > newleft) || (speed > 0 && parseInt(list.style.left) < newleft)) {
-                    list.style.left = parseInt(list.style.left) + speed + 'px';
-                    setTimeout(go, interval);
-                } else {
-                    list.style.left = newleft + 'px';
-                    if (newleft > -1200) {
-                        list.style.left = -6000 + 'px';
-                    }
-                    if (newleft < -6000) {
-                        list.style.left = -1200 + 'px';
-                    }
-                    fasion = false;
-                }
-            }
-
-            go();
-        }
-
-        prev.onclick = function () {
-            if (fasion == false) {
-                animate(1200);
-                index--;
-                if (index < 0) {
-                    index = 4;
-                }
-                showbutton();
-            }
-        }
-        next.onclick = function () {
-            if (fasion == false) {
-                animate(-1200);
-                index++;
-                if (index > 4) {
-                    index = 0;
-                }
-                showbutton();
-            }
-        }
-
-        for (var i = 0; i < buttons.length; i++) {
-            if (fasion == false) {
-                buttons[i].onclick = function () {
-                    if (this.className == "on") {
-                        return;
-                    }
-                    lastindex = index;
-                    var myindex = parseInt(this.getAttribute('index'));
-                    index = myindex;
-                    buttons[index].className = "on";
-                    animate(-1200 * (index - lastindex));
-                    showbutton();
-                }
-            }
-        }
-        function play() {
-            timer = setInterval(function () {
-                next.onclick();
-            }, 2500);
-        }
-
-        function stop() {
-            clearInterval(timer);
-        }
-
-        container.onmouseout = play;
-        container.onmouseover = stop;
-//
-//
-//        var denglu1=document.getElementById(denglu1);
-//        var login1=document.getElementById(login1);
-//
-//
-//        denglu1.onclick = function () {
-//            self.location="../index.html";
-//        }
-    }
-</script>
 <body>
-<div class="header">
-    <img src="__PUBLIC__/static/index/img/hea.jpg" alt="">
-    <div class="rightdenglu">
-        <a class="denglu" id="denglu1" href="javascript:;">用户登陆</a>
-    </div>
+{include file="Public/top"}
+<section>
+    <div class="container">
+        <div class="row">
+            <!--标签规定文档的主要内容main-->
+            <main class="col-md-8">
+                <article class="_carousel">
+                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        </ol>
 
-</div>
-<ul class="daohang">
-    <a href="#"><li class="li1"><img src="__PUBLIC__/static/index/img/zhuye.jpg" alt="" title="主页"></li></a>
-    <a href="#"><li>校庆动态</li></a>
-    <a href="#"><li>院系动态</li></a>
-    <a href="#"><li>视觉东秦</li></a>
-    <a href="#"><li>通知公告</li></a>
-    <a href="#"><li>校友风采</li></a>
-</ul>
-<div class="bigcontainer">
-    <div class="shang1"></div><div class="shang2"></div>
-    <div class="zhong1"></div><div class="zhong2"></div>
-    <div class="xia"></div>
-    <!--<img src="../img/fugai.gif" alt="" class="fugai">-->
-    <div class="container" id="container">
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner" role="listbox">
+                            <div class="item active">
+                                <img src="__PUBLIC__/static/index/images/1.jpg">
+                            </div>
+                            <div class="item">
+                                <img src="__PUBLIC__/static/index/images/2.jpg">
+                            </div>
+                        </div>
 
-        <div class="contain" id="list" style="left: -1200px">
-            <img src="__PUBLIC__/static/index/img/img5.jpg" alt="">
-            <img src="__PUBLIC__/static/index/img/img1.jpg" alt="">
-            <img src="__PUBLIC__/static/index/img/img2.jpg" alt="">
-            <img src="__PUBLIC__/static/index/img/img3.jpg" alt="">
-            <img src="__PUBLIC__/static/index/img/img4.jpg" alt="">
-            <img src="__PUBLIC__/static/index/img/img5.jpg" alt="">
-            <img src="__PUBLIC__/static/index/img/img1.jpg" alt="">
-        </div>
-        <div class="buttons" id="buttons">
-            <span index="0" class="on"></span>
-            <span index="1"></span>
-            <span index="2"></span>
-            <span index="3"></span>
-            <span index="4"></span>
-        </div>
-        <a href="javascript:;" class="arrow1" id="prev">&lt;</a>
-        <a href="javascript:;" class="arrow2" id="next">&gt;</a>
-    </div>
-</div>
-<div class="container2">
-    <div class="left" style="border-right:1px dashed grey;border-bottom:1px dashed grey; ">
-        <h1>校庆通知</h1>
-        <a href="#" class="tz1"><span style="color: gray; font-size: 18px">&gt; </span> 东北大学秦皇岛分校关于开展校庆三十周年​征文活动的通知</a>
-        <a href="#" class="tz1"><span style="color: gray; font-size: 18px">&gt; </span> 关于征集东北大学秦皇岛分校第十二届文化体育艺术节logo的通知</a>
-        <a href="#" class="tz1"><span style="color: gray; font-size: 18px">&gt; </span> 关于举办“东北大学秦皇岛分校三十周年校庆”专题网站设计大赛的通知</a>
-    </div>
-    <div class="right" style="padding-left:25px;">
-        <h1>校庆通知</h1>
-        <a href="#" class="tz2"><span style="color: gray; font-size: 18px">&gt; </span> 东北大学秦皇岛分校关于开展校庆三十周年​征文活动的通知</a>
-        <a href="#" class="tz2"><span style="color: gray; font-size: 18px">&gt; </span> 关于征集东北大学秦皇岛分校第十二届文化体育艺术节logo的通知</a>
-        <a href="#" class="tz2"><span style="color: gray; font-size: 18px">&gt; </span> 关于举办“东北大学秦皇岛分校三十周年校庆”专题网站设计大赛的通知</a>
-    </div>
-    <div class="left">
-        <h1>校庆通知</h1>
-        <a href="#" class="tz1"><span style="color: gray; font-size: 18px">&gt; </span> 东北大学秦皇岛分校关于开展校庆三十周年​征文活动的通知</a>
-        <a href="#" class="tz1"><span style="color: gray; font-size: 18px">&gt; </span> 关于征集东北大学秦皇岛分校第十二届文化体育艺术节logo的通知</a>
-        <a href="#" class="tz1"><span style="color: gray; font-size: 18px">&gt; </span> 关于举办“东北大学秦皇岛分校三十周年校庆”专题网站设计大赛的通知</a>
-    </div>
-    <div class="right" style="border-left:1px dashed grey;border-top:1px dashed grey;padding-left:25px;">
-        <h1>校庆通知</h1>
-        <a href="#" class="tz2"><span style="color: gray; font-size: 18px">&gt; </span> 东北大学秦皇岛分校关于开展校庆三十周年​征文活动的通知</a>
-        <a href="#" class="tz2"><span style="color: gray; font-size: 18px">&gt; </span> 关于征集东北大学秦皇岛分校第十二届文化体育艺术节logo的通知</a>
-        <a href="#" class="tz2"><span style="color: gray; font-size: 18px">&gt; </span> 关于举办“东北大学秦皇岛分校三十周年校庆”专题网站设计大赛的通知</a>
-    </div>
-</div>
-<div class="bigfooter">
-    <div class="footer1">
-        <a href="#" style="top: 40px;" class="a1">一览东秦</a>
-        <a href="#" style="top: 10px;font-size: large" class="a1">LOOK</a>
-        <a href="#" style="top: 10px;font-size: large" class="a2">FRIENDLY LINK</a>
-        <a href="#" style="top: 40px;right: 735px;" class="a2">东北大学</a>
-        <a href="#" style="top: 10px;font-size: large;right: 485px;" class="a3">CONTACT</a>
-        <a href="#" style="top: 40px;" class="a3">关于我们</a>
-        <a href="#" style="top: 70px;" class="a3">联系我们</a>
-        <a href="#" style="top: 100px;" class="a3">意见反馈</a>
-        <div class="footerright">
-            <p>扫描加微信：</p>
-            <img src="__PUBLIC__/static/index/img/er.png" alt="">
-        </div>
-    </div>
+                        <!-- Controls -->
+                        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        </a>
+                        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        </a>
+                    </div>
+                </article>
+                <article>
+                    <div class="_head">
+                        <h1>标题</h1>
+                        <span>
+								作者：
+								黄晓明
+								</span>
+                        •
+                        <!--pubdate表⽰示发布⽇日期-->
+                        <time pubdate="pubdate" datetime="2017-1-1">2017-1-1</time>
+                        •
+                        分类：
+                        <a href="list.html">新闻</a>
+                    </div>
+                    <div class="_digest">
+                        <img src="__PUBLIC__/static/index/images/1.jpg"  class="img-responsive"/>
+                        <p>
+                            摘要
+                        </p>
+                    </div>
+                    <div class="_more">
+                        <a href="" class="btn btn-default">阅读全文</a>
+                    </div>
+                    <div class="_footer">
+                        <i class="glyphicon glyphicon-tags"></i>
+                        <a href="">PHP</a>、
+                        <a href="">PHP</a>、
+                    </div>
+                </article>
+            </main>
+            <aside class="col-md-4 hidden-sm hidden-xs">
+                <div class="_widget">
+                    <h4>关于后盾</h4>
+                    <div class="_info">
+                        <p>最认真的PHP培训机构 只讲真功夫的PHP培训机构 最火爆的IT课程</p>
+                        <p>
+                            <i class="glyphicon glyphicon-volume-down"></i>
+                            <a href="http://www.houdunwang.com" target="_blank">北京后盾网</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="_widget">
+                    <h4>分类列表</h4>
+                    <div>
+                        <a href="">娱乐</a>
+                    </div>
+                </div>
+                <div class="_widget">
+                    <h4>标签云</h4>
+                    <div class="_tag">
+                        <a href="">PHP</a>
+                        <a href="">PHP</a>
+                        <a href="">PHP</a>
+                    </div>
+                </div>
 
-    <div class="footer2">
-        <p> 邮编：066004 | 地址：河北省秦皇岛市海港区东北大学秦皇岛分校 | 东北大学秦皇岛分校三十周年校庆官网</p>
+            </aside>
+        </div>
     </div>
+</section>
+<footer class="hidden-xs">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <h4 class="_title">最新文章</h4>
+                <div id="" class="_single">
+                    <p><a href="">标题</a></p>
+                    <time>2010年11月06日11:24:16</time>
+                </div>
+                <div id="" class="_single">
+                    <p><a href="">标题</a></p>
+                    <time>2010年11月06日11:24:16</time>
+                </div>
+            </div>
+            <div class="col-sm-4 footer_tag">
+                <div id="">
+                    <h4 class="_title">标签云</h4>
+                    <a href="">PHP</a>
+                    <a href="">PHP</a>
+                    <a href="">PHP</a>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <h4 class="_title">友情链接</h4>
+                <div id="" class="_single">
+                    <p><a href="" target="_blank">百度</a></p>
+                    <p><a href="" target="_blank">百度</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="footer_bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <a href="">网站名称</a>
+                |
+                <a href="">版权信息</a>
+                |
+                <a href="">admin@163.com</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--返回顶部自己写的插件-->
+<script src="__PUBLIC__/static/index/js/backTop.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+    $(function(){
+        //插件使用
+        $('.back_top').backTop({right:30});
+    })
+</script>
+<div class="back_top hidden-xs hidden-md">
+    <i class="glyphicon glyphicon-menu-up"></i>
 </div>
 </body>
-
-<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js">/*IE6,7,8兼容html5*/</script>
-<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js">//IE6，7，8兼容css3</script>
-<script rel="stylesheet." src="__PUBLIC__/static/index/js/jquery-3.1.1.js"></script>
-<script rel="stylesheet." src="__PUBLIC__/static/index/bootstrap/js/bootstrap.min.js"></script>
 </html>

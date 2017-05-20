@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>武斌博客网后台管理系统</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="__PUBLIC__/static/admin/bootstrap-3.3.0-dist/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="__PUBLIC__/static/admin/css/site.css" rel="stylesheet">
+    <link href="__PUBLIC__/static/admin/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="__PUBLIC__/static/admin/js/jquery.min.js"></script>
+    <script src="__PUBLIC__/static/admin/bootstrap-3.3.0-dist/dist/js/bootstrap.min.js"></script>
+    <!--[if lt IE 9]>
+    <script src="http://cdn.bootcss.com/html5shiv/r29/html5.min.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script>
+        if (navigator.appName == 'Microsoft Internet Explorer') {
+            if (navigator.userAgent.indexOf("MSIE 5.0") > 0 || navigator.userAgent.indexOf("MSIE 6.0") > 0 || navigator.userAgent.indexOf("MSIE 7.0") > 0) {
+                alert('您使用的 IE 浏览器版本过低, 推荐使用 Chrome 浏览器或 IE8 及以上版本浏览器.');
+            }
+        }
+    </script>
+    <style>
+        i {
+            color: #337ab7;
+        }
+    </style>
+</head>
+<body>
+{include file="Public/top"}
+</div>
+<!--主体-->
+<div class="container-fluid admin_menu">
+    <div class="row">
+        {include file="Public/left"}
+        <!--右侧主题部分 start-->
+        <div class="col-xs-12 col-sm-9 col-lg-10">
+            <ol class="breadcrumb" style="background-color: #f9f9f9;padding:8px 0;margin-bottom:10px;">
+                <li>
+                    <a href=""><i class="fa fa-cogs"></i>
+                        栏目管理</a>
+                </li>
+                <li class="active">
+                    <a href="">栏目列表</a>
+                </li>
+            </ol>
+            <ul class="nav nav-tabs" role="tablist">
+                <li class="active"><a href="">栏目列表</a></li>
+                <li><a href="">添加栏目</a></li>
+            </ul>
+            <form action="" method="post">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <table class="table table-hover">
+                            <thead>
+                            <tr>
+                                <th width="80">编号</th>
+                                <th>栏目名称</th>
+                                <th width="200">操作</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>编号</td>
+                                <td>栏目名称</td>
+                                <td>
+                                    <div class="btn-group">
+                                        <button data-toggle="dropdown" class="btn btn-primary btn-xs dropdown-toggle">操作 <span class="caret"></span></button>
+                                        <ul class="dropdown-menu dropdown-menu-right">
+                                            <li><a href="">添加子类</a></li>
+                                            <li><a href="">编辑</a></li>
+                                            <li class="divider"></li>
+                                            <li><a href="javascript:;">删除</a></li>
+                                        </ul>
+                                    </div>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </form>
+            <div class="pagination pagination-sm pull-right">
+            </div>
+        </div>
+        <!--右侧主题部分 end-->
+    </div>
+</div>
+<div class="master-footer" style="margin-top: 150px">
+    <a href="http://www.houdunwang.com">高端培训</a>
+    <a href="http://www.hdphp.com">开源框架</a>
+    <a href="http://bbs.houdunwang.com">后盾论坛</a>
+    <br>
+    Powered by hdphp v2.0 © 2016-2022 www.hdphp.com
+</div>
+</body>
+</html>
