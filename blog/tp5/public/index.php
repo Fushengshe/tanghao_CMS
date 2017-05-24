@@ -27,4 +27,4 @@ require __DIR__ . '/../thinkphp/start.php';
 
 //自动生成2
 
-\think\Build::module('admin');
+//\think\Build::module('admin');

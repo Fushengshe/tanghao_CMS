@@ -1,5 +1,5 @@
 <?php
-namespace app\admin\controller;
+namespace app\admin\model;
 use think\Controller;
 
 class Article extends Controller
@@ -18,12 +18,12 @@ class Article extends Controller
                 'content'=>input('content'),
                 'time'=>time()
             ];
-
-            if($_FILES['pic']['tmp_name']){
-                echo 11111;die;
-            }else{
-                echo 2222;die;
-            }
+//
+//            if($_FILES['pic']['tmp_name']){
+//                echo 11111;
+//            }else{
+//                echo 2222;
+//            }
             $validate = \think\Loader::validate('article');
             if ($validate->check($data)) {
                 $db = \think\Db::name('article')->insert($data);

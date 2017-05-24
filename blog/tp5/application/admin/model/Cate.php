@@ -1,5 +1,5 @@
 <?php
-namespace app\admin\controller;
+namespace app\admin\model;
 use think\Controller;
 
 class Cate extends Controller
