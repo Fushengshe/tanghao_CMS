@@ -43,6 +43,7 @@ class Cate extends Controller
                 'keywords'=>input('keywords'),
                 'lmdesc'=>input('lmdesc'),
                 'type'=>input('type'),
+                'pic'=>input('pic')
             ];
             $validate = \think\Loader::validate('Cate');
             if($validate->check($data)){

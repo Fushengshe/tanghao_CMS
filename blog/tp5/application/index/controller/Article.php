@@ -2,11 +2,11 @@
 
 namespace app\index\controller;
 use think\Controller;
-class Ariticle extends Controller
+class Article extends Controller
 {
     public function index()
     {
-        return $this -> fetch('ariticle');
+        return $this -> fetch('article');
     }
 
 }
