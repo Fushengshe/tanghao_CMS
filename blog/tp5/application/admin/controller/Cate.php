@@ -1,5 +1,5 @@
 <?php
-namespace app\admin\model;
+namespace app\admin\controller;
 use think\Controller;
 
 class Cate extends Controller
@@ -42,7 +42,7 @@ class Cate extends Controller
                 'catename'=>input('catename'),
                 'keywords'=>input('keywords'),
                 'lmdesc'=>input('lmdesc'),
-                'type'=>input('type'),
+                'type'=>input('type')
             ];
             $validate = \think\Loader::validate('Cate');
             if($validate->check($data)){

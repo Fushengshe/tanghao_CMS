@@ -1,5 +1,5 @@
 <?php
-namespace app\admin\model;
+namespace app\admin\controller;
 use think\Controller;
 
 class Article extends Controller
@@ -8,16 +8,15 @@ class Article extends Controller
     {
         return $this->fetch();
     }
-
     public function add()
     {
-        if (request()->isPost()) {
-            $data = [
-                'title' => input('title'),
-                'keywords' => input('keywords'),
-                'lmdesc' => input('lmdesc'),
-                'content' => input('content'),
-                'time' => time()
+        if(request()->isPost()){
+            $data=[
+                'title'=>input('title'),
+                'keywords'=>input('keywords'),
+                'lmdesc'=>input('lmdesc'),
+                'content'=>input('content'),
+                'time'=>time()
             ];
             if ($_FILES['pic']['tmp_name']) {
                 // 获取表单上传文件
@@ -34,7 +33,7 @@ class Article extends Controller
                     return $this->error($file->getError());
                 }
             }
-            $validate = \think\Loader::validate('Article');
+            $validate = \think\Loader::validate('article');
             if ($validate->check($data)) {
                 $db = \think\Db::name('article')->insert($data);
                 if ($db) {
