@@ -6,7 +6,7 @@ use think\Validate;
 class Article extends Validate
 {
     protected $rule = [
-        'title' => 'require|max:25|unique:article',
+        'title' => 'require|max:25',
 //        'email' => 'email',
     ];
     protected $message = [

@@ -6,7 +6,7 @@ use think\Validate;
 class Cate extends Validate
 {
     protected $rule = [
-        'catename' => 'require|max:25|unique:cate',
+        'catename' => 'require|max:25',
 //        'email' => 'email',
     ];
     protected $message = [
