@@ -38,9 +38,9 @@
         {include file="Public/left"}
         <!--右侧主题部分 start-->
         <div class="col-xs-12 col-sm-9 col-lg-10">
-            {include file="Public/lefttop"}
+
             <ul class="nav nav-tabs" role="tablist">
-                <li><a href="">文章管理</a></li>
+                <li><a href="{:url('lst')}">文章管理</a></li>
                 <li class="active"><a href="">新增文章</a></li>
             </ul>
             <form class="form-horizontal" id="form" action="" method="post" enctype="multipart/form-data">
@@ -65,7 +65,16 @@
                             <label for="" class="col-sm-2 control-label">描述：</label>
                             <div class="col-sm-9">
                                 <textarea name="lmdesc" id="lmdesc" style="width: 98%" cols="30" rows="4"></textarea>
-
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">所属栏目：</label>
+                            <div class="col-sm-9">
+                                <select name="cateid" id="">
+                                    {volist name="cateres" id="vo"}
+                                        <option value="{$vo.id}">{$vo.catename}</option>
+                                    {/volist}
+                                </select>
                             </div>
                         </div>
                         <div class="form-group">

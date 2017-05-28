@@ -45,7 +45,7 @@ class Cate extends Controller
                 'type'=>input('type')
             ];
             $validate = \think\Loader::validate('Cate');
-            if($validate->check($data)){
+            if($validate->scene('edit')->check($data)){
                 if ($db = \think\Db::name('cate')->update($data)){
                     return $this->success('修改栏目成功','lst');
                 }else{

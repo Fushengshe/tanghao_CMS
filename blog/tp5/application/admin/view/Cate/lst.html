@@ -35,7 +35,7 @@
         {include file="Public/left"}
         <!--右侧主题部分 start-->
         <div class="col-xs-12 col-sm-9 col-lg-10">
-            {include file="Public/lefttop"}
+
             <ul class="nav nav-tabs" role="tablist">
                 <li class="active"><a href="">栏目列表</a></li>
                 <li><a href="{:url('cate/add')}">添加栏目</a></li>
@@ -49,11 +49,12 @@
                                 <th>栏目名称</th>
                                 <th width="6%">栏目类型</th>
                                 <th width="8%">操作</th>
+
                             </tr>
                             {volist name="cateres" id="vo"}
                             <tr>
                                 <td>{$vo.id}</td>
-                                <td title="{$vo.catename}"><a target="_blank" href="#" title="{$vo.catename}">{$vo.catename}</a></td>
+                                <td title="{$vo.catename}"><a href="#" title="{$vo.catename}">{$vo.catename}</a></td>
                                 <td>
                                     {if condition="$vo['type'] eq 0"}
                                     列表栏目
