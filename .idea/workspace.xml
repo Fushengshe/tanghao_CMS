@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3a8f17d-523b-4e6c-bdd2-dd45d5d5f7a2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/validate/Link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Link/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Link/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Link/lst.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Article.php" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Article.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/controller/Article.php" afterPath="$PROJECT_DIR$/blog/tp5/application/index/controller/Article.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" afterPath="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/controller/Lst.php" afterPath="$PROJECT_DIR$/blog/tp5/application/index/controller/Lst.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/view/Article/article.html" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Article/article.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html" />
-    </list>
+    <list default="true" id="c3a8f17d-523b-4e6c-bdd2-dd45d5d5f7a2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,8 +159,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="193" />
-    <option name="y" value="454" />
+    <option name="x" value="212" />
+    <option name="y" value="352" />
     <option name="width" value="1525" />
     <option name="height" value="800" />
   </component>
@@ -421,7 +404,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
@@ -528,18 +511,18 @@
       <workItem from="1495805791080" duration="1289000" />
       <workItem from="1495807086327" duration="4759000" />
       <workItem from="1495874689076" duration="11046000" />
-      <workItem from="1495935447368" duration="25219000" />
+      <workItem from="1495935447368" duration="25826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110210000" />
+    <option name="totallyTimeSpent" value="110817000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="193" y="454" width="1525" height="800" extended-state="1" />
-    <editor active="true" />
+    <frame x="212" y="352" width="1525" height="800" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18555334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18555334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
