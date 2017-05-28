@@ -1,7 +1,7 @@
 <?php
 namespace app\index\controller;
-use think\Controller;
-class Index extends Controller
+//use think\Controller;
+class Index extends Base
 {
     public function index()
     {
@@ -12,7 +12,6 @@ class Index extends Controller
         //方法2
 //        return view();
         //方法3
-
         return $this->fetch('index');
     }
 }

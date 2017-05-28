@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a8f17d-523b-4e6c-bdd2-dd45d5d5f7a2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/lefttop.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/validate/Link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Link/add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Link/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Link/lst.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Article.php" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Article.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/validate/Article.php" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/validate/Article.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/validate/Cate.php" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/validate/Cate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Article/add.html" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Article/add.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Article/edit.html" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Article/edit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Article/lst.html" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Article/lst.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/add.html" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/add.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/edit.html" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/edit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/lst.html" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/lst.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Index/index.html" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Index/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html" afterPath="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/controller/Article.php" afterPath="$PROJECT_DIR$/blog/tp5/application/index/controller/Article.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" afterPath="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/controller/Lst.php" afterPath="$PROJECT_DIR$/blog/tp5/application/index/controller/Lst.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/view/Article/article.html" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Article/article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html" afterPath="$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,21 +32,43 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lst.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/lst.html">
+      <file leaf-file-name="Base.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Base.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+            <state relative-caret-position="210">
+              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/add.html">
+      <file leaf-file-name="Article.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Article.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+            <state relative-caret-position="240">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lst.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Article/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="28" column="46" lean-forward="false" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -90,19 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Aritcle/lst.html" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Ariticle/lst.html" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Ariticle/add.html" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/controller/Ariticle.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/validate/Ariticle.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Ariticle.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/model/Index.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/config.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/public/index.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/controller/Index.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/model/Cate.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/runtime/temp/027619eded96a6c809e99029abde3991.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/runtime/temp/41542abba1279833388e5a8402e73cd6.php" />
         <option value="$PROJECT_DIR$/blog/tp5/runtime/temp/79a549698b12dba757b0d115517a33ef.php" />
         <option value="$PROJECT_DIR$/blog/tp5/runtime/temp/84d92fbd96434bf233980fc9c8ab2156.php" />
         <option value="$PROJECT_DIR$/blog/tp5/runtime/temp/8bc75db693fe2a2255504a37d8345281.php" />
@@ -129,11 +140,8 @@
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/config.php" />
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/model/Article.php" />
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/validate/Cate.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php" />
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/validate/Article.php" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/controller/Article.php" />
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/lefttop.html" />
-        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html" />
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/edit.html" />
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Index/index.html" />
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Article/edit.html" />
@@ -141,6 +149,22 @@
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Article/lst.html" />
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/add.html" />
         <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/lst.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Link.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/validate/Link.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Link/add.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Link/edit.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/controller/Article.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/view/Link/lst.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/controller/Link.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Base.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Lst.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/controller/Article.php" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html" />
+        <option value="$PROJECT_DIR$/blog/tp5/application/index/view/Article/article.html" />
       </list>
     </option>
   </component>
@@ -152,10 +176,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
-    <option name="y" value="43" />
+    <option name="x" value="193" />
+    <option name="y" value="454" />
     <option name="width" value="1525" />
-    <option name="height" value="744" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -253,6 +277,10 @@
               <option name="myItemId" value="view" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -279,6 +307,108 @@
               <option name="myItemId" value="index" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lst" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tanghao_CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tanghao_CMS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tp5" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tanghao_CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tanghao_CMS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tp5" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Article" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tanghao_CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tanghao_CMS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tp5" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -295,16 +425,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin\controller" />
+      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin" />
+      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin\view\Index" />
+      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application" />
+      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\index\view\Index" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin\view\Link" />
       <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin\controller" />
       <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin" />
       <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin\view" />
-      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\index\view\Index" />
-      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\admin\view\Index" />
-      <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application" />
       <recent name="C:\xampp\htdocs\php\Web\tanghao_CMS\blog\tp5\application\index\view\Index" />
     </key>
   </component>
@@ -369,6 +501,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c3a8f17d-523b-4e6c-bdd2-dd45d5d5f7a2" name="Default" comment="" />
@@ -393,18 +528,18 @@
       <workItem from="1495805791080" duration="1289000" />
       <workItem from="1495807086327" duration="4759000" />
       <workItem from="1495874689076" duration="11046000" />
-      <workItem from="1495935447368" duration="5871000" />
+      <workItem from="1495935447368" duration="25219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90862000" />
+    <option name="totallyTimeSpent" value="110210000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="43" width="1525" height="744" extended-state="1" />
-    <editor active="false" />
+    <frame x="193" y="454" width="1525" height="800" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18555334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18555334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -431,60 +566,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/temp/027619eded96a6c809e99029abde3991.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="105" column="63" lean-forward="false" selection-start-line="105" selection-start-column="63" selection-end-line="105" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/temp/41542abba1279833388e5a8402e73cd6.php" />
-    <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/temp/79a549698b12dba757b0d115517a33ef.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="102" column="63" lean-forward="false" selection-start-line="102" selection-start-column="63" selection-end-line="102" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/temp/84d92fbd96434bf233980fc9c8ab2156.php" />
-    <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/temp/8bc75db693fe2a2255504a37d8345281.php" />
-    <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/temp/95be4ac7636bb8c08dde59c6f829dcf1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="105" column="63" lean-forward="false" selection-start-line="105" selection-start-column="63" selection-end-line="105" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/temp/9d960d7c5b7e6041a3a1995a1fe191f1.php" />
-    <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/temp/a97f1380449ee504531fb8907abd6992.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="105" column="63" lean-forward="false" selection-start-line="105" selection-start-column="63" selection-end-line="105" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/temp/c53b81952d62ebaacbb4c706152fdbb7.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3022">
-          <caret line="106" column="64" lean-forward="true" selection-start-line="106" selection-start-column="64" selection-end-line="106" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="27" column="68" lean-forward="false" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/public/static/admin/admin.ui/js/calendar/bootstrap_calendar.js" />
-    <entry file="file://$PROJECT_DIR$/blog/tp5/public/static/admin/admin.ui/js/charts/flot/jquery.flot.min.js" />
-    <entry file="file://$PROJECT_DIR$/blog/tp5/public/static/admin/admin.ui/js/datatables/jquery.dataTables.min.js" />
-    <entry file="file://$PROJECT_DIR$/blog/tp5/public/static/admin/admin.ui/js/fuelux/demo.datagrid.js" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/public/static/admin/admin.ui/js/jquery-ui-1.10.3.custom.min.js" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/public/static/admin/bootstrap-3.3.0-dist/dist/css/bootstrap.css.map" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/public/static/admin/js/jquery.min.js" />
@@ -509,13 +596,6 @@
     <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/log/201705/24.log" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/log/201705/26.log" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/runtime/log/201705/25.log" />
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/model/Cate.php" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/model/Index.php" />
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/database.php">
@@ -566,38 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/validate/Article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/validate/Cate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="26" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/controller/Article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="105" column="26" lean-forward="false" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="64" column="8" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="69" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Public/lefttop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -622,34 +670,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Public/top.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Article/edit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Article/lst.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="39" column="34" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -678,10 +702,188 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Public/left.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="64" column="34" lean-forward="false" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/validate/Cate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Cate/lst.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+        <state relative-caret-position="150">
+          <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/validate/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/controller/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Article/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="97" column="38" lean-forward="false" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Link/lst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="61" column="47" lean-forward="false" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/controller/Link.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="52" column="22" lean-forward="false" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/controller/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Link/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="69" column="43" lean-forward="false" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/validate/Link.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Link/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-960">
+          <caret line="10" column="97" lean-forward="false" selection-start-line="10" selection-start-column="97" selection-end-line="10" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/thinkphp/library/think/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="68" column="23" lean-forward="false" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/view/Article/lst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="85" column="23" lean-forward="false" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Public/top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2340">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Lst.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/admin/controller/Cate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Lst/lst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/view/Article/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="28" column="46" lean-forward="false" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tp5/application/index/controller/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="57" />
           <folding />
         </state>
       </provider>

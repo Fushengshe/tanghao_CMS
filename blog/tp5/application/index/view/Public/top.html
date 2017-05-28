@@ -21,10 +21,17 @@
                 </div>
                 <div class="collapse navbar-collapse" id="example-navbar-collapse">
                     <ul class="_menu">
-                        <li class="_active"><a href="index.html">首页</a></li>
-                        <li><a href="">新闻</a></li>
-                        <li><a href="">军事</a></li>
-                        <li><a href="">娱乐</a></li>
+                        <li class="_active"><a href="{:url('Index/index')}">首页</a></li>
+                        {volist name = "navres" id = "vo"}
+                        <li><a href="
+                            {if condition="$vo['type'] eq 0"}
+                            {:url('lst/index',array('cateid'=>$vo.id))}">{$vo.catename}
+                            {else /}
+                            {:url('guest/index',array('cateid'=>$vo.id))}">{$vo.catename}
+                            {/if}
+                            </a></li>
+
+                        {/volist}
                     </ul>
                 </div>
             </div>

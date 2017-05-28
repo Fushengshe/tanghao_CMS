@@ -6,7 +6,7 @@ class Cate extends Controller
 {
     public function lst()
     {
-        $cateres = \think\Db::name('cate')->select();
+        $cateres = \think\Db::name('cate')->order('id asc')->select();
         $this->assign('cateres', $cateres);
         return $this->fetch();
     }

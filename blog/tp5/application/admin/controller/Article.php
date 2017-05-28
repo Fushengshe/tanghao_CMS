@@ -92,7 +92,6 @@ class Article extends Controller
             } else {
                 return $this->error($validate->getError());
             }
-
             return;
         }
         $arts = \think\Db::name('article')->where('id',input('id'))->find();
