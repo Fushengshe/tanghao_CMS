@@ -1,8 +1,7 @@
 <?php
 namespace app\admin\controller;
-use think\Controller;
 
-class Link extends Controller
+class Link extends Base
 {
     public function lst()
     {
