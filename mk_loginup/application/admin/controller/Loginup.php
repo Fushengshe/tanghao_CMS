@@ -8,7 +8,6 @@ class Loginup extends Controller
     {
 //        $links = \think\Db::name('link')->paginate(3);
 //        $this->assign('links', $links);
-        if(request()->isGet()){
             $loginup = new Log;
             $username = input('username');
             $password = input('password');
@@ -44,6 +43,6 @@ class Loginup extends Controller
             }elseif($status ==33){
                 return json(['status' => '33','msg' => '注册失败，密码不一致！！']);
             }
-        }
+ 
     }
 }
